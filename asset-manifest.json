@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/pokedexlanguages2/static/css/main.74ee890a.chunk.css",
+    "main.js": "/pokedexlanguages2/static/js/main.f93f0147.chunk.js",
+    "main.js.map": "/pokedexlanguages2/static/js/main.f93f0147.chunk.js.map",
+    "runtime~main.js": "/pokedexlanguages2/static/js/runtime~main.4d49091a.js",
+    "runtime~main.js.map": "/pokedexlanguages2/static/js/runtime~main.4d49091a.js.map",
+    "static/css/2.023e65de.chunk.css": "/pokedexlanguages2/static/css/2.023e65de.chunk.css",
+    "static/js/2.b91c3a9e.chunk.js": "/pokedexlanguages2/static/js/2.b91c3a9e.chunk.js",
+    "static/js/2.b91c3a9e.chunk.js.map": "/pokedexlanguages2/static/js/2.b91c3a9e.chunk.js.map",
+    "index.html": "/pokedexlanguages2/index.html",
+    "precache-manifest.976cdcbcd9afb3f931befb7008b19a54.js": "/pokedexlanguages2/precache-manifest.976cdcbcd9afb3f931befb7008b19a54.js",
+    "service-worker.js": "/pokedexlanguages2/service-worker.js",
+    "static/css/2.023e65de.chunk.css.map": "/pokedexlanguages2/static/css/2.023e65de.chunk.css.map",
+    "static/css/main.74ee890a.chunk.css.map": "/pokedexlanguages2/static/css/main.74ee890a.chunk.css.map",
+    "static/media/budew_monochrome.png": "/pokedexlanguages2/static/media/budew_monochrome.f0109bea.png",
+    "static/media/china.svg": "/pokedexlanguages2/static/media/china.7f8455b7.svg",
+    "static/media/france.svg": "/pokedexlanguages2/static/media/france.968aaa24.svg",
+    "static/media/germany.svg": "/pokedexlanguages2/static/media/germany.d810f621.svg",
+    "static/media/italy.svg": "/pokedexlanguages2/static/media/italy.612e617f.svg",
+    "static/media/japan.svg": "/pokedexlanguages2/static/media/japan.1f905d23.svg",
+    "static/media/south-korea.svg": "/pokedexlanguages2/static/media/south-korea.8a067f19.svg",
+    "static/media/spain.svg": "/pokedexlanguages2/static/media/spain.36938bbe.svg",
+    "static/media/united-kingdom.svg": "/pokedexlanguages2/static/media/united-kingdom.e5564902.svg"
+  }
+}
